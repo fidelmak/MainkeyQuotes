@@ -23,11 +23,11 @@ const btn ={
     return(
     <div className='carenot'> 
     <br />
-    <header>MainKey Quotes</header>
+    <header><h3> MainKey Quotes </h3></header>
     <br />
     <div className='fun'>
             <div>
-                <h3>{slideImages[index].caption}</h3>
+                <p>{slideImages[index].caption}</p>
                 <img src={slideImages[index].url} width="350" height="300"/>
             </div>
             <div>

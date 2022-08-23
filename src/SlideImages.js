@@ -79,11 +79,11 @@ const slideImages = [
       },{
         url: "https://picsum.photos/200/300?random=9",
         
-        caption: "The purpose of our lives is to be happy. — Dalai Lama "
+        caption: '"The purpose of our lives is to be happy. — Dalai Lama "'
       },{
         url: "https://picsum.photos/200/300?random=3",
         
-        caption: 'Do what you love '
+        caption: ' "Do what you love" '
       }
   ];
 export default slideImages
